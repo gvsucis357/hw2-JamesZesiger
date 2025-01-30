@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		FF9AE6B72D4987F100E8A148 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FF9AE6982D4987EE00E8A148 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FF9AE69F2D4987EE00E8A148;
+			remoteInfo = "Geo Calculator App";
+		};
+		FF9AE6C12D4987F100E8A148 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FF9AE6982D4987EE00E8A148 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FF9AE69F2D4987EE00E8A148;
+			remoteInfo = "Geo Calculator App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FF9AE6A02D4987EE00E8A148 /* Geo Calculator App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Geo Calculator App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF9AE6B62D4987F100E8A148 /* Geo Calculator AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Geo Calculator AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF9AE6C02D4987F100E8A148 /* Geo Calculator AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Geo Calculator AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		FF9AE6C82D4987F100E8A148 /* Exceptions for "Geo Calculator App" folder in "Geo Calculator App" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = FF9AE69F2D4987EE00E8A148 /* Geo Calculator App */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		FF9AE6A22D4987EE00E8A148 /* Geo Calculator App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				FF9AE6C82D4987F100E8A148 /* Exceptions for "Geo Calculator App" folder in "Geo Calculator App" target */,
+			);
+			path = "Geo Calculator App";
+			sourceTree = "<group>";
+		};
+		FF9AE6B92D4987F100E8A148 /* Geo Calculator AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Geo Calculator AppTests";
+			sourceTree = "<group>";
+		};
+		FF9AE6C32D4987F100E8A148 /* Geo Calculator AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Geo Calculator AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FF9AE69D2D4987EE00E8A148 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF9AE6B32D4987F100E8A148 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF9AE6BD2D4987F100E8A148 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FF9AE6972D4987EE00E8A148 = {
+			isa = PBXGroup;
+			children = (
+				FF9AE6A22D4987EE00E8A148 /* Geo Calculator App */,
+				FF9AE6B92D4987F100E8A148 /* Geo Calculator AppTests */,
+				FF9AE6C32D4987F100E8A148 /* Geo Calculator AppUITests */,
+				FF9AE6A12D4987EE00E8A148 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FF9AE6A12D4987EE00E8A148 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FF9AE6A02D4987EE00E8A148 /* Geo Calculator App.app */,
+				FF9AE6B62D4987F100E8A148 /* Geo Calculator AppTests.xctest */,
+				FF9AE6C02D4987F100E8A148 /* Geo Calculator AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FF9AE69F2D4987EE00E8A148 /* Geo Calculator App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF9AE6C92D4987F100E8A148 /* Build configuration list for PBXNativeTarget "Geo Calculator App" */;
+			buildPhases = (
+				FF9AE69C2D4987EE00E8A148 /* Sources */,
+				FF9AE69D2D4987EE00E8A148 /* Frameworks */,
+				FF9AE69E2D4987EE00E8A148 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				FF9AE6A22D4987EE00E8A148 /* Geo Calculator App */,
+			);
+			name = "Geo Calculator App";
+			packageProductDependencies = (
+			);
+			productName = "Geo Calculator App";
+			productReference = FF9AE6A02D4987EE00E8A148 /* Geo Calculator App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FF9AE6B52D4987F100E8A148 /* Geo Calculator AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF9AE6CE2D4987F100E8A148 /* Build configuration list for PBXNativeTarget "Geo Calculator AppTests" */;
+			buildPhases = (
+				FF9AE6B22D4987F100E8A148 /* Sources */,
+				FF9AE6B32D4987F100E8A148 /* Frameworks */,
+				FF9AE6B42D4987F100E8A148 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FF9AE6B82D4987F100E8A148 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FF9AE6B92D4987F100E8A148 /* Geo Calculator AppTests */,
+			);
+			name = "Geo Calculator AppTests";
+			packageProductDependencies = (
+			);
+			productName = "Geo Calculator AppTests";
+			productReference = FF9AE6B62D4987F100E8A148 /* Geo Calculator AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FF9AE6BF2D4987F100E8A148 /* Geo Calculator AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF9AE6D12D4987F100E8A148 /* Build configuration list for PBXNativeTarget "Geo Calculator AppUITests" */;
+			buildPhases = (
+				FF9AE6BC2D4987F100E8A148 /* Sources */,
+				FF9AE6BD2D4987F100E8A148 /* Frameworks */,
+				FF9AE6BE2D4987F100E8A148 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FF9AE6C22D4987F100E8A148 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FF9AE6C32D4987F100E8A148 /* Geo Calculator AppUITests */,
+			);
+			name = "Geo Calculator AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "Geo Calculator AppUITests";
+			productReference = FF9AE6C02D4987F100E8A148 /* Geo Calculator AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FF9AE6982D4987EE00E8A148 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					FF9AE69F2D4987EE00E8A148 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					FF9AE6B52D4987F100E8A148 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = FF9AE69F2D4987EE00E8A148;
+					};
+					FF9AE6BF2D4987F100E8A148 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = FF9AE69F2D4987EE00E8A148;
+					};
+				};
+			};
+			buildConfigurationList = FF9AE69B2D4987EE00E8A148 /* Build configuration list for PBXProject "Geo Calculator App" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FF9AE6972D4987EE00E8A148;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FF9AE6A12D4987EE00E8A148 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FF9AE69F2D4987EE00E8A148 /* Geo Calculator App */,
+				FF9AE6B52D4987F100E8A148 /* Geo Calculator AppTests */,
+				FF9AE6BF2D4987F100E8A148 /* Geo Calculator AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FF9AE69E2D4987EE00E8A148 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF9AE6B42D4987F100E8A148 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF9AE6BE2D4987F100E8A148 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FF9AE69C2D4987EE00E8A148 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF9AE6B22D4987F100E8A148 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF9AE6BC2D4987F100E8A148 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FF9AE6B82D4987F100E8A148 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FF9AE69F2D4987EE00E8A148 /* Geo Calculator App */;
+			targetProxy = FF9AE6B72D4987F100E8A148 /* PBXContainerItemProxy */;
+		};
+		FF9AE6C22D4987F100E8A148 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FF9AE69F2D4987EE00E8A148 /* Geo Calculator App */;
+			targetProxy = FF9AE6C12D4987F100E8A148 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FF9AE6CA2D4987F100E8A148 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Geo Calculator App/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.gvsu.cis.Geo-Calculator-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FF9AE6CB2D4987F100E8A148 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Geo Calculator App/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.gvsu.cis.Geo-Calculator-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FF9AE6CC2D4987F100E8A148 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FF9AE6CD2D4987F100E8A148 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FF9AE6CF2D4987F100E8A148 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.gvsu.cis.Geo-Calculator-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Geo Calculator App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Geo Calculator App";
+			};
+			name = Debug;
+		};
+		FF9AE6D02D4987F100E8A148 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.gvsu.cis.Geo-Calculator-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Geo Calculator App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Geo Calculator App";
+			};
+			name = Release;
+		};
+		FF9AE6D22D4987F100E8A148 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.gvsu.cis.Geo-Calculator-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Geo Calculator App";
+			};
+			name = Debug;
+		};
+		FF9AE6D32D4987F100E8A148 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.gvsu.cis.Geo-Calculator-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Geo Calculator App";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FF9AE69B2D4987EE00E8A148 /* Build configuration list for PBXProject "Geo Calculator App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF9AE6CC2D4987F100E8A148 /* Debug */,
+				FF9AE6CD2D4987F100E8A148 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF9AE6C92D4987F100E8A148 /* Build configuration list for PBXNativeTarget "Geo Calculator App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF9AE6CA2D4987F100E8A148 /* Debug */,
+				FF9AE6CB2D4987F100E8A148 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF9AE6CE2D4987F100E8A148 /* Build configuration list for PBXNativeTarget "Geo Calculator AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF9AE6CF2D4987F100E8A148 /* Debug */,
+				FF9AE6D02D4987F100E8A148 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF9AE6D12D4987F100E8A148 /* Build configuration list for PBXNativeTarget "Geo Calculator AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF9AE6D22D4987F100E8A148 /* Debug */,
+				FF9AE6D32D4987F100E8A148 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FF9AE6982D4987EE00E8A148 /* Project object */;
+}
